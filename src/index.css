@@ -1,0 +1,41 @@
+body{
+    background-color: #2161cb;
+    height: 100vh;
+    font-size: 16px;
+}
+
+.title{
+    color: #2161cb;
+    background-color: white;
+    padding: 1.8rem 0px;
+    text-align: center;
+    font-size: 2.6rem;
+}
+
+.ToDo_body{
+    background-color: white;
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+}
+
+.margin_bottom_add_task{
+    margin-bottom: 40px;
+}
+
+.width_button{
+    max-width: 100px;
+    width: 100%;
+}
+
+.task{
+    background-color: rgb(196, 225, 229, .8);
+    border-radius: .3rem;
+    position: relative;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+.task p{
+    margin: 0;
+}
